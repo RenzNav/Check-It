@@ -16,3 +16,5 @@ This project was based on a YouTube tutorial by CodingLab, but includes my own c
 - HTML5
 - CSS3 (custom design)
 - Vanilla JavaScript
+
+NB: You may check the html, css, and js from the files attached, however in order to see the full website including the icons, you must download the zip file, which contains the whole Check-It website.
